@@ -2,7 +2,7 @@
 
 ![SecureBank](https://img.icons8.com/color/96/000000/bank-building.png)
 
-A comprehensive PySpark-based banking fraud detection system with interactive Streamlit visualizations and a professional banking theme. (Update 18)
+A comprehensive PySpark-based banking fraud detection system with interactive Streamlit visualizations and a professional banking theme. (Update 19)
 
 ## Overview
 
